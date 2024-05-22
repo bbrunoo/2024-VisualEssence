@@ -1,0 +1,44 @@
+<div class="container">
+
+  <div class="conteudo">
+
+    <div class="box-entrar">
+
+      <div class="b-content">
+
+        <div class="b-titulo">Entrar</div>
+        <div class="b-form">
+
+          <form (ngSubmit)="login()" #loginForm="ngForm">
+            <div class="input-style">
+              <label>Email</label>
+              <input type="email" name="" id=""  [(ngModel)]="CredentialsPais.email" [ngModelOptions]="{standalone: true}"  required/>
+              <br>
+            </div>
+
+            <div class="input-style">
+              <label>Senha</label>
+              <div class="hide-show">
+                <input [type]="showPassword ? 'text' : 'password' " name="password" id="password" [(ngModel)]="CredentialsPais.senha" [ngModelOptions]="{standalone: true}"  required/>
+                  <img class="toggle-password" width="30px" height="30px" (click)="toggleShowPassword()" [src]="showPassword ? 'assets/olho.png' : 'assets/ocultar.png'">
+              </div>
+            </div>
+
+            <div class="b-forgetPassword">
+              <a [routerLink]="['/esquecer-senha']" routerLinkActive="router-link-active" >Esqueceu a senha?</a>
+            </div>
+
+            <div class="b-cont-sub">
+              <button class="b-submit" type="submit">Enviar</button>
+            </div>
+          </form>
+        <div class="b-cadastrar">
+          <p>Não possuo uma conta
+          <a [routerLink]="['/cadastro-pais']" routerLinkActive="router-link-active" >Cadastrar</a><br>
+          <a class="opc2" [routerLink]="['/opc-entrar']" routerLinkActive="router-link-active" >Voltar</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

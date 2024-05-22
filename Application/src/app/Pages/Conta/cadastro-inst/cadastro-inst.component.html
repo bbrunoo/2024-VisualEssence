@@ -1,0 +1,57 @@
+<div class="container">
+  <div class="conteudo">
+    <div class="box-entrar">
+      <div class="b-content">
+        <div class="b-titulo">Cadastrar</div>
+
+
+        <div class="b-form">
+          <form (ngSubmit)="register()" #cadastroForm="ngForm">
+            <div class="content-divide">
+              <div class="esc-form">
+                <div class="input-style">
+                  <label>Nome da Instituição</label>
+                  <input type="text" name="nome" [(ngModel)]="UserInst.nomeInst" [ngModelOptions]="{standalone: true}" required/>
+                </div>
+
+                <div class="input-style">
+                  <label>CPNJ</label>
+                  <input type="text" [(ngModel)]="UserInst.cnpj" [ngModelOptions]="{standalone: true}" name="" required/>
+                </div>
+
+                <div class="b-forgetPassword">
+                  <a [routerLink]="['/esquecer-senha']" routerLinkActive="router-link-active" >Esqueceu a senha?</a>
+                </div>
+
+              </div>
+
+              <div class="dir-form">
+                <div class="input-style">
+                  <label>Email</label>
+                  <input type="email" name="email" [(ngModel)]="UserInst.email" [ngModelOptions]="{standalone: true}" required/>
+                </div>
+                <div class="input-style">
+                  <label>Senha</label>
+                  <div class="hide-show">
+                    <input [type]="showPassword ? 'text' : 'password'" name="senha" [(ngModel)]="UserInst.senha" [ngModelOptions]="{standalone: true}" required/>
+                      <img class="toggle-password" width="30px" height="30px" (click)="toggleShowPassword()" [src]="showPassword ? 'assets/olho.png' : 'assets/ocultar.png'">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="b-cont-sub">
+              <button class="b-submit" type="submit">Enviar</button>
+            </div>
+
+            <div class="b-cadastrar">
+              <p>Ja possuo uma conta
+              <a [routerLink]="['/login-inst']" routerLinkActive="router-link-active" >Entrar</a><br>
+              <a class="opc2" [routerLink]="['/opc-entrar']" routerLinkActive="router-link-active" >Voltar</a>
+              </p>
+
+            </div>
+            </form>
+            </div>
+    </div>
+  </div>
+</div>

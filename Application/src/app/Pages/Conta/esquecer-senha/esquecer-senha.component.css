@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Joti+One&display=swap');
+
+* {
+  font-family: "Joti One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  position: relative;
+  background-image: url("../../../../assets/fundoUsuario.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  height: 100vmin;
+}

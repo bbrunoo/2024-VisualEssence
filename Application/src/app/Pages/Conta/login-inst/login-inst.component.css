@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Joti+One&display=swap');
+
+*{
+  font-family: "Joti One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+position: relative;
+background-image: url("../../../../assets/fundoUsuario.png");
+background-size: cover;
+background-position: center ;
+background-repeat: repeat;
+height: 100vmin;
+}
+
+.conteudo {
+  width: 100vw;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-entrar{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 550px;
+  height: 550px;
+  border-radius: 60px;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+}
+
+.b-content{
+  width: 80%;
+  height: 80%;
+}
+
+.b-titulo{
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0 20px 0px;
+}
+
+
+.input-style{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  label{
+    width: 100%;
+    font-size: 25px;
+    padding: 0 0 10px 0;
+  }
+
+  #icon{
+    position: fixed;
+    top: 51.5%;
+    right: 760px; /* Ajuste conforme necessário */
+    cursor: pointer;
+  }
+}
+
+.hide-show{
+  display: flex;
+  align-items: center;
+  width: 100% !important;
+  position: relative;
+}
+
+.toggle-password{
+  position: absolute;
+  z-index: 0;
+  right: 5%;
+}
+
+input{
+  background-color: #D9D9D9;
+  width: 100%;
+  border:none;
+  border-radius: 25px;
+  height: 45px;
+  font-size: 20px;
+  outline: none;
+  padding: 20px;
+}
+
+.b-forgetPassword a{
+  color: #530083;
+  text-decoration: none ;
+}
+
+
+.b-forgetPassword a:hover{
+  text-decoration: underline;
+
+}
+
+.b-cont-sub
+{
+  padding: 25px 0 20px 0;
+}
+
+.b-submit {
+  border: none;
+  background-color: #530083;
+  color: white;
+  width: 100%;
+  height: 45px;
+  border-radius: 25px;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+
+}
+
+.b-submit:hover{
+  background-color: rgb(92, 0, 173);
+}
+
+.b-cadastrar
+{
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+
+  a{
+    text-decoration: none;
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
+
+  p .opc2{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #530083;
+  }
+
+}
+
+@media screen and (max-width: 960px) {
+  .b-forgetPassword a{
+    font-size: 15px ;
+  }
+  .box-entrar {
+    width: 440px;
+    height: 450px;
+  }
+  .b-titulo {
+    height: auto;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .input-style{
+    label{
+      font-size: 20px;
+    }
+
+    input {
+      background-color: #D9D9D9;
+      height: 20px;
+      font-size: 15px;
+    }
+
+    .toggle-password{
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  .b-submit{
+    height: 40px;
+    font-size: 25px;
+  }
+
+  .b-cadastrar{
+    font-size: 100%;
+  }
+
+  .b-form{
+    height: 80%;
+  }
+
+}
+
+@media screen and (max-width: 560px) {
+  .b-forgetPassword a{
+    font-size: 10px ;
+  }
+  .box-entrar {
+    width: 340px;
+    height: 350px;
+  }
+  .b-titulo {
+    height: auto;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .input-style{
+    label{
+      font-size: 12px;
+    }
+
+    input {
+      background-color: #D9D9D9;
+      height: 12px;
+      font-size: 8px;
+    }
+
+    .toggle-password{
+      width: 15px;
+      height: 15px;
+    }
+  }
+
+  .b-submit{
+    height: 25px;
+    font-size: 15px;
+  }
+
+  .b-cadastrar{
+    font-size: 50%;
+  }
+
+  .b-form{
+    height: 80%;
+  }
+
+}
