@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\dtos\\instloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:dtos\\instloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\dtos\\userinstdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:dtos\\userinstdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\dtos\\ploginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:dtos\\ploginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\repositories\\usuariopaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:repositories\\usuariopaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\repositories\\usuarioinstrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:repositories\\usuarioinstrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\interfaces\\iusuariopaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:interfaces\\iusuariopaisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\services\\cadastropais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:services\\cadastropais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\models\\userinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:models\\userinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\migrations\\20240522021407_morechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:migrations\\20240522021407_morechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\models\\userpais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:models\\userpais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\dtos\\userpaisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:dtos\\userpaisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522021140_somechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240522021140_somechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\services\\cadastroinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:services\\cadastroinst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522011536_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240522011536_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\interfaces\\iusuarioinstrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:interfaces\\iusuarioinstrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|c:\\users\\bruno\\desktop\\projetopi\\projetointegrador\\visualessenceapi\\visualessenceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7409CAFF-FB67-4520-9EC5-292314102488}|VisualEssenceAPI.csproj|solutionrelative:visualessenceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:31:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioPaisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Repositories\\UsuarioPaisRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioPaisRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Repositories\\UsuarioPaisRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioPaisRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:34:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\InstLoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\InstLoginRequest.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\InstLoginRequest.cs",
+              "RelativeToolTip": "DTOs\\InstLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:16:50.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\PLoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\PLoginRequest.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\PLoginRequest.cs",
+              "RelativeToolTip": "DTOs\\PLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:16:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInstDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\UserInstDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserInstDTO.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\UserInstDTO.cs",
+              "RelativeToolTip": "DTOs\\UserInstDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:32:29.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioInstRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Repositories\\UsuarioInstRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioInstRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Repositories\\UsuarioInstRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioInstRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:31:28.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioPaisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Interfaces\\IUsuarioPaisRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioPaisRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Interfaces\\IUsuarioPaisRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioPaisRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:33:48.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadastroPais.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Services\\CadastroPais.cs",
+              "RelativeDocumentMoniker": "Services\\CadastroPais.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Services\\CadastroPais.cs",
+              "RelativeToolTip": "Services\\CadastroPais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:32:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInst.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Models\\UserInst.cs",
+              "RelativeDocumentMoniker": "Models\\UserInst.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Models\\UserInst.cs",
+              "RelativeToolTip": "Models\\UserInst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:19:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240522021407_morechanges.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522021407_morechanges.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522021407_morechanges.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522021407_morechanges.cs",
+              "RelativeToolTip": "Migrations\\20240522021407_morechanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:14:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserPais.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Models\\UserPais.cs",
+              "RelativeDocumentMoniker": "Models\\UserPais.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Models\\UserPais.cs",
+              "RelativeToolTip": "Models\\UserPais.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:23:32.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserPaisDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\UserPaisDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserPaisDTO.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\DTOs\\UserPaisDTO.cs",
+              "RelativeToolTip": "DTOs\\UserPaisDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:32:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:38:05.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240522021140_somechanges.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522021140_somechanges.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522021140_somechanges.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522021140_somechanges.cs",
+              "RelativeToolTip": "Migrations\\20240522021140_somechanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:11:40.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:14:07.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T00:26:22.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CadastroInst.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Services\\CadastroInst.cs",
+              "RelativeDocumentMoniker": "Services\\CadastroInst.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Services\\CadastroInst.cs",
+              "RelativeToolTip": "Services\\CadastroInst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:40:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240522011536_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522011536_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522011536_Initial.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Migrations\\20240522011536_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240522011536_Initial.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:15:36.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:17:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUsuarioInstRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Interfaces\\IUsuarioInstRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioInstRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\Interfaces\\IUsuarioInstRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioInstRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:31:18.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VisualEssenceAPI",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\VisualEssenceAPI.csproj",
+              "RelativeDocumentMoniker": "VisualEssenceAPI.csproj",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ProjetoPI\\ProjetoIntegrador\\VisualEssenceAPI\\VisualEssenceAPI.csproj",
+              "RelativeToolTip": "VisualEssenceAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T00:16:50.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
